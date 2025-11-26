@@ -1,8 +1,3 @@
-"""
-AudioRedactor - Базовый аудиоредактор с открытым исходным кодом
-Позволяет загружать, редактировать и сохранять аудиофайлы (WAV, MP3)
-"""
-
 import tkinter as tk
 from tkinter import filedialog, messagebox, ttk
 import os
