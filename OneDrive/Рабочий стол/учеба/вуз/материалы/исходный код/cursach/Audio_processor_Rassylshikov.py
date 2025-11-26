@@ -1,9 +1,3 @@
-"""
-AudioRedactor - Базовый аудиоредактор БЕЗ FFmpeg
-Работает только с WAV файлами
-Версия: 1.0
-Автор: IlyaRassylshchikov
-"""
 
 import tkinter as tk
 from tkinter import filedialog, messagebox
